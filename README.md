@@ -21,7 +21,7 @@ It demonstrates the complete Data Science workflow:
 ## Project Screenshots
 
 ### 🔹 Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap]([(https://github.com/deepanshukaushik049-DataScience/Student-Performance-Project-using-Machine-Learning/blob/main/Heatmap.png))
 
 ### 🔹 Study Hours vs Exam Score
 ![Scatter Plot](images/scatter.png)
